@@ -14,7 +14,7 @@ The minimal number of moves required to solve a Tower of Hanoi puzzle is 2n − 
 
 Clone the repository
 ```
-git clone 
+git clone https://github.com/VirgilioQuaresima/lucas_tower.git
 ```
 In the source directory run the game
 ```
